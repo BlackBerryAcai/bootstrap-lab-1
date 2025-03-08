@@ -20,9 +20,9 @@ Day 1:
 - [ ]Create a main and footer tag, In the main container, add an H1, P tag and at least three buttons.
         Import bootstrap from the CDN.
 - [x] Style your buttons with bootstrap.Create index.html
-- [ ] Choose 2 out of the following to add to your page: list, border, spacing, text, colors, opacity.
-- [ ] Create gallery.html
-- [ ] Add 3 pictures
+- [x] Choose 2 out of the following to add to your page: list, border, spacing, text, colors, opacity.
+- [x] Create gallery.html
+- [x] Add 3 pictures
 - [ ] Create about.html
 - [ ] Create 2 lists
 - [ ] Add a tags to link the pages together
@@ -41,9 +41,6 @@ Author: robert.mccreary@codex.academy
 
 ## Acknowledgements
 
-* [w3Schools HTML Link Tutorial](https://www.w3schools.com/html/html_links.asp)
+* [Bootstrap’s card](https://getbootstrap.com/docs/5.3/components/card/)
 * [w3Schools Images](https://www.w3schools.com/html/html_images.asp)
 * [w3Schools Lists](https://www.w3schools.com/html/html_lists.asp)
-* [Pexels](https://www.pexels.com/)
-* [Cloudinary](https://cloudinary.com/)
-* [Imgix Params](https://www.imgix.com/solutions/resizing-and-cropping)
